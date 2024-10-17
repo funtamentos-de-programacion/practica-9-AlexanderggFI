@@ -5,6 +5,7 @@ int main() {
     //TODO: (14) Declara un arreglo de tres apuntadores a entero
     
     
+    
     //TODO: (15) Asigna a cada apuntador la dirección de las variables a, b y c
     //TODO: (16) Mostrar los valores usando los punteros
     
